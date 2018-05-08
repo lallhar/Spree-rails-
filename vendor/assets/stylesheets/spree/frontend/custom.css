@@ -1,0 +1,21 @@
+.taxonomy-root {
+	color: red;
+}
+
+.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
+	background-color: #000;
+}
+
+.info {
+	font-family: 'Skranji', cursive;
+}
+
+.header-phone {
+	position: absolute;
+	top: 0;
+	right: 210px;
+	font-weight: bold;
+	font-size: 17px;
+	color: white;
+	margin-top: 10px;
+}

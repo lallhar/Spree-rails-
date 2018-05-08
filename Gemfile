@@ -63,3 +63,5 @@ gem 'spree_gateway', '~> 3.3'
 gem "spree_comments", github: 'spree-contrib/spree_comments'
 gem 'spree_wallet', '2.0.6'
 gem 'spree_reviews', github: 'spree-contrib/spree_reviews'
+
+ gem 'spree_paypal_express', github: 'spree-contrib/better_spree_paypal_express'
