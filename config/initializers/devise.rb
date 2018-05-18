@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+ config.secret_key = 'ff4b24cac372397139edebaf7704e35997dbba8d7db62969165427ff29562ac5680d8f74e596e0be6781dc33954a1a3e047b3d731a6ab48e23b6abe2222ffaf9' if Rails.env == 'production'
+
 # Use this hook to configure devise mailer, warden hooks and so forth.
 # Many of these configuration options can be set straight in your model.
 Devise.setup do |config|
