@@ -66,3 +66,9 @@ gem 'spree_wallet', '2.0.6'
 gem 'spree_reviews', github: 'spree-contrib/spree_reviews'
 
  gem 'spree_paypal_express', github: 'spree-contrib/better_spree_paypal_express'
+ gem 'spree_sitemap', github: 'spree-contrib/spree_sitemap'
+
+ gem 'vinsol_spree_themes', github: 'vinsol-spree-contrib/spree_themes', branch: 'master'
+ gem 'sprockets-helpers', '~> 1.2.1'
+
+
